@@ -3,7 +3,7 @@
 /* Constants */
 #define TERMINAL "alacritty"
 #define TERMCLASS "alacritty"
-#define BROWSER "firefox"
+#define BROWSER "chromium"
 #define BAR_TRANS 0  // Disable transparency for the status bar
 
 /* appearance */
