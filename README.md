@@ -9,7 +9,7 @@ These themes use LARBS: https://github.com/LukeSmithxyz/voidrice
 
 ## Changes I made to LARBS
 
-- The default web browser is Firefox. This can still be opened with `MOD + w`
+- The default web browser is Chromium. This can still be opened with `MOD + w`
 - I didn't install passmenu. So, you can change `MOD + D` to whatever you want.
 - I added `Kick Ass tun0` to the statusbar on most themes. You can change this in `~/.local/bin/statusbar/sb-tun0`
 
